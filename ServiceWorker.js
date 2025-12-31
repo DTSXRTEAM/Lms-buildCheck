@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Lms-UI-2.0";
 const contentToCache = [
     "Build/build test.loader.js",
-    "Build/build test.framework.js.unityweb",
-    "Build/build test.data.unityweb",
-    "Build/build test.wasm.unityweb",
+    "Build/build test.framework.js",
+    "Build/build test.data",
+    "Build/build test.wasm",
     "TemplateData/style.css"
 
 ];
